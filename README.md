@@ -1,5 +1,5 @@
 # Live Demo Link
-The application can be viewed by clicking [here](
+The application can be viewed by clicking [here](https://haris-afzal.github.io/ScoreKeeper/)
 
 # ScoreKeeper
 A responsive one page web-app made with **_javascript_** and styled with **_Bootstrap_**.
